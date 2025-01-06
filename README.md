@@ -38,7 +38,12 @@ chmod +x gixel-commits.sh
 ./gixel-commits.sh
 ```
 
+3. To remove the gixel art just delete the repo. Likewise, to change it then delete then push a newscript.
+
+![example](/example.png)
+
 Note: The script creates empty commits with backdated timestamps. Make sure you're in the correct Git repository before running the script.
+
 
 ## Technical Details
 
