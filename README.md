@@ -92,7 +92,7 @@ This tool is for **educational and artistic purposes only**. Ensure your usage c
 ## **Get Started**
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/git-pattern-generator.git
+   git clone https://github.com/bm-github/gixel.git
 
 ## Feedback and Contributions
 
