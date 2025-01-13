@@ -1,10 +1,11 @@
-# **Gixe, the Git Pixel Generator**
+# **Gixel, the Git Pixel Generator**
 
 **Git Pixel Generator** is a fun and creative web-based tool that transforms your Git commit history into pixel-art-like patterns! Design custom contribution graphs to showcase your creativity directly on your GitHub profile.
 Inspired by when GitHub changed the activity grid colours for Halloween.
 
-
 ---
+
+# Try it online [gixel](https://bm-github.github.io/gixel-hosting/)
 
 ## **Features**
 - 🎨 **Interactive Grid**: Design directly on a grid that mimics GitHub's contribution graph.
