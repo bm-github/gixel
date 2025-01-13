@@ -1,10 +1,11 @@
-# **Gixe, the Git Pixel Generator**
+# **Gixel, the Git Pixel Generator**
 
 **Git Pixel Generator** is a fun and creative web-based tool that transforms your Git commit history into pixel-art-like patterns! Design custom contribution graphs to showcase your creativity directly on your GitHub profile.
 Inspired by when GitHub changed the activity grid colours for Halloween.
 
-
 ---
+
+# Try it online [gixel](https://bm-github.github.io/gixel-hosting/)
 
 ## **Features**
 - 🎨 **Interactive Grid**: Design directly on a grid that mimics GitHub's contribution graph.
@@ -25,8 +26,9 @@ Inspired by when GitHub changed the activity grid colours for Halloween.
      -  **Level 0 (Grey)**: No commits
      -  **Level 1 (Light Green)**: 1 commit
      -  **Level 2 (Medium Green)**: 2 commits
-     -  **Level 3 (Dark Green)**: 3 commits
-     -  **Level 4 (Darkest Green)**: 4+ commits
+     -  **Level 3 (Bright Green)**: 3 commits
+     -  **Level 4 (Brightest Green)**: 4+ commits
+   - Use the dropdown to fill all cells any shade
 3. **Generate the Script**:
    - Click **"Generate Script"** to create a bash script.
    - Choose **"Copy to Clipboard"** or **"Download Script"** to save it.
